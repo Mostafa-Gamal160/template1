@@ -179,7 +179,7 @@ body {
 /* end header  */
 /* start landing  */
 .landing {
-  background-image: url(/images/landing.jpg);
+  background-image: url(../images/landing.jpg);
   background-size: cover;
   height: calc(100vh - 44px);
   position: relative;
